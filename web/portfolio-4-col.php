@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Modern Business - Start Bootstrap Template</title>
+    <title>Moderno Business - Start Bootstrap Template</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -137,6 +137,7 @@
 
         <!-- Projects Row -->
         <div class="row">
+
             <div class="col-md-3 img-portfolio">
                 <a href="portfolio-item.html">
                     <img class="img-responsive img-hover" src="http://placehold.it/750x450" alt="">
