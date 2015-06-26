@@ -1,7 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: jorge
- * Date: 6/25/15
- * Time: 7:15 PM
- */
+file:///C:/Users/jorge/Documents/imagejpeg_0_2-1.jpg
+
+
