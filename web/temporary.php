@@ -11,7 +11,7 @@ $portfolio_collection = [
         'container_class' => 'col-md-3 img-portfolio',
         'img_class' => 'img-responsive img-hover',
         'portfolio_link' => 'portfolio-item.php',
-        'img_link' => 'http://lorempixel.com/g/750/450',
+        'img_link' => 'http://localhost/mdcs50.dev/web/images/1375396411705.jpg',
     ],
     [
         'container_class' => 'col-md-3 img-portfolio',

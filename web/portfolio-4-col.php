@@ -1,4 +1,3 @@
-<?php require_once 'bootstrap.php'; ?>
 <?php require_once 'header.php'; ?>
     <!-- Page Content -->
     <div class="container">
